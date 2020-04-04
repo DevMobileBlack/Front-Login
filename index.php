@@ -103,12 +103,7 @@
                     <a class="password" href="#">Esqueceu Sua Senha ?</a>
                     <button class="btn btn-second">Logar-Se</button>
 
-                    <?php
-                        echo $_SESSION['msg']
-                    ?>
-
-
-
+                   
                 </form>
             </div>
 
